@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @font-face {
-  font-family: 'Koverwatch';
-  src: url('../fonts/koverwatch.ttf');
+  font-family: 'Overwatch';
+  src: url(https://us.battle.net/forums/static/fonts/f014015d/f014015d.woff);
 }
 
 body {
@@ -23,9 +23,10 @@ a {
 
 .title {
   color: white;
-  font-family: 'Koverwatch';
+  font-family: 'Overwatch';
   font-size: 48pt;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .grid {
