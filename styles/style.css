@@ -85,7 +85,7 @@ a {
   width: 125px;
 }
 
-.cell.free {
+.cell.free, .cell.checked {
   background: #f99e1a;
 }
 

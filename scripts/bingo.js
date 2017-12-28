@@ -59,5 +59,8 @@ function addCell(col, text, free) {
     let row = $("<div class='cell free'>" + text + "</div>").appendTo(col);
   } else {
     let row = $("<div class='cell'>" + text + "</div>").appendTo(col);
+    $(row).click(function() {
+      $(row).toggleClass('checked');
+    });
   }
 }
