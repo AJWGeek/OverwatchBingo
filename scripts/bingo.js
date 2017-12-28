@@ -37,7 +37,7 @@ function fill() {
 
     /* Column-Major Order */
     for(let i = 0; i < COLS; i++) {
-      let col = $("<div class='col'></div>").appendTo("#bingo");
+      let col = $("<div class='col'></div>").hide().appendTo("#bingo").fadeIn(FADE);
       for(let j = 0; j < ROWS; j++) {
         if(i == Math.floor(COLS / 2) && j == Math.floor(ROWS / 2)) {
           addCell(col, "FREE SPACE", true); /* Middle of Table */
