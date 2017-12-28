@@ -40,9 +40,9 @@ function fill() {
       let col = $("<div class='col'></div>").appendTo("#bingo");
       for(let j = 0; j < ROWS; j++) {
         if(i == Math.floor(COLS / 2) && j == Math.floor(ROWS / 2)) {
-          addCell(col, "FREE SPACE"); /* Middle of Table */
+          addCell(col, "FREE SPACE", true); /* Middle of Table */
         } else {
-          addCell(col, lines[k++]);
+          addCell(col, lines[k++], false);
         }
       }
     }
@@ -54,6 +54,10 @@ function fill() {
  * @param {[type]} col  [description]
  * @param {[type]} text [description]
  */
-function addCell(col, text) {
-  let row = $("<div class='cell'>" + text + "</div>").appendTo(col);
+function addCell(col, text, free) {
+  if(free) {
+    let row = $("<div class='cell free'>" + text + "</div>").appendTo(col);
+  } else {
+    let row = $("<div class='cell'>" + text + "</div>").appendTo(col);
+  }
 }
