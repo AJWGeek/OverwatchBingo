@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@font-face {
+  font-family: 'Koverwatch';
+  src: url('../fonts/koverwatch.ttf');
+}
+
+body {
+  background: #405275;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  min-width: 600px;
+}
+
+footer {
+  color: white;
+  margin: 50px 0;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
+
+.title {
+  color: white;
+  font-family: 'Koverwatch';
+  font-size: 48pt;
+  text-align: center;
+}
+
+.grid {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.col {
+  flex: 0;
+}
+
+.cell {
+  align-items: center;
+  background: white;
+  border: 2px solid black;
+  color: black;
+  display: flex;
+  font-size: 12pt;
+  height: 100px;
+  justify-content: center;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100px;
+}
+
+.cell.free {
+  background: #f99e1a;
+}
+
+#header .cell {
+  background-color: #218ffe;
+  font-size: 32pt;
+}
