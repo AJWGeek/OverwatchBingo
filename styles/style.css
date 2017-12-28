@@ -4,11 +4,24 @@
   src: url(https://us.battle.net/forums/static/fonts/f014015d/f014015d.woff);
 }
 
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+}
+
 body {
   background: #405275;
   font-family: 'Lato', sans-serif;
   font-weight: 600;
   min-width: 600px;
+}
+
+header {
+  text-align: center;
+  margin: 50px 0;
 }
 
 footer {
@@ -21,12 +34,30 @@ a {
   color: inherit;
 }
 
+.button {
+  display: inline-block;
+  position: relative;
+  width: 120px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 2px;
+  font-size: 0.9em;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button.blue {
+  background-color: #218ffe;
+  color: white;
+}
+
 .title {
   color: white;
   font-family: 'Overwatch';
   font-size: 48pt;
   text-align: center;
   text-transform: uppercase;
+  margin: 25px 0;
 }
 
 .grid {
@@ -46,12 +77,12 @@ a {
   color: black;
   display: flex;
   font-size: 12pt;
-  height: 100px;
+  height: 125px;
   justify-content: center;
   padding: 5px;
   text-align: center;
   text-transform: uppercase;
-  width: 100px;
+  width: 125px;
 }
 
 .cell.free {
@@ -61,4 +92,5 @@ a {
 #header .cell {
   background-color: #218ffe;
   font-size: 32pt;
+  color: white;
 }
