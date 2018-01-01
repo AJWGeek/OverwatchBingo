@@ -38,3 +38,5 @@ All duplicates in loot box
 High level grouped with low level friend
 Someone spams "Group up with me"
 Low levels vs. high levels
+"DPS aren't getting enough kills"
+Triple or quad tank
