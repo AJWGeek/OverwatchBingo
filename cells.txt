@@ -1,6 +1,6 @@
 Leaver
-4 players insta-lock DPS
-First push in overtime
+Insta-lock DPS
+Win during overtime
 Smurf owns your team
 Widow forgets the point
 Scatter arrow one-shots a tank
@@ -16,10 +16,10 @@ Empty voice chat
 Roadhog solo tank
 Mei walls off the spawn exit
 Salty Genji main
-Battle Mercy won't heal
+Battle Mercy 
 Gold damage as Reinhardt
 Alone on the payload
-Your team has Ana, Hanzo, and Widow
+Ana, Hanzo, and Widow
 Support POTG
 "It's just Quick Play"
 Backfill
@@ -40,3 +40,22 @@ Someone spams "Group up with me"
 Low levels vs. high levels
 "DPS aren't getting enough kills"
 Triple or quad tank
+Attack Bastion
+Temple of Anubis
+Illios
+Dorado
+Hollywood
+Hanamura
+Volskya Industries
+Horizon Lunar Colony
+Junkertown
+Numbani
+Nepal
+Lijang Tower
+Oasis
+Eichenwalde 
+Watchpoint: Gibraltar 
+Route: 66
+King's Row
+4 DPS
+Spam/Cancer Composition
