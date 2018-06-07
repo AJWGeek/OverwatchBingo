@@ -4,8 +4,7 @@ Win during overtime
 Smurf owns your team
 Widow forgets the point
 Scatter arrow one-shots a tank
-Attack Tjorb
-Attack Hanzo
+Attack Torb
 "I need healing"
 One Zen, 5 DPS
 No healers
@@ -38,7 +37,7 @@ All duplicates in loot box
 High level grouped with low level friend
 Someone spams "Group up with me"
 Low levels vs. high levels
-"DPS aren't getting enough kills"
+"DPS aren't getting kills"
 Triple or quad tank
 Attack Bastion
 Temple of Anubis
@@ -59,3 +58,28 @@ Route: 66
 King's Row
 4 DPS
 Spam/Cancer Composition
+Stun comp
+Salty Teammate 
+Die during your ult
+Mercy dies trying to rez
+Environmental kills
+Riptire POTG
+You get POTG
+Pinned and killed by Rein
+Frozen and killed by Mei
+Triple kill
+Quad kill
+Quintuple kill
+Team kill
+Killed by D.Va ult
+Killed by Widow Headshot
+Overtime
+Deaths in the double digits
+Gold Medal
+Genji gets a reflect kill
+Ult kills no one
+Get a card and recieve at least 5 votes
+Get a card
+You're on fire
+Whole team is on fire
+Slept/Stunned
