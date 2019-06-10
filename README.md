@@ -17,4 +17,4 @@
 2.  Upload to your favorite web host
 
 ## Copyright and License
-Code released under [Creative Commons Attribution Non-Commercial 4.0 International License](LICENSE).
+Code released under [CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
